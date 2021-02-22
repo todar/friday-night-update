@@ -2,48 +2,73 @@ import Head from "next/head"
 import matter from "gray-matter"
 import fs from 'fs'
 import path from "path"
-import Link from "next/link"
-import styles from '../../styles/Songs.module.css'
+import Link from "../../components/Link";
+import Container from "@material-ui/core/Container";
+import List from "@material-ui/core/List";
+import ListItem from "@material-ui/core/ListItem";
+import ListItemSecondaryAction from "@material-ui/core/ListItemSecondaryAction";
+import ListItemAvatar from "@material-ui/core/ListItemAvatar";
+import Avatar from "@material-ui/core/Avatar";
+import MusicNote from "@material-ui/icons/MusicNote";
+import ListItemText from "@material-ui/core/ListItemText";
+import Divider from "@material-ui/core/Divider";
+import IconButton from "@material-ui/core/IconButton";
+import LikeIcon from "@material-ui/icons/Favorite";
 
+import SearchBox from "../../components/searchBox";
+import { useSearch } from "../../context/searchContext";
 
-export default function Songs({songs}) {
+const SongPage = ({ songs }) => {
+  const [{ value }] = useSearch();
+
+  const filteredList = songs.filter(song => {
+    console.log(song.data.title);
+    if (
+      song.data.title.toLowerCase().includes(value.toLowerCase()) ||
+      value === ""
+    ) {
+      return song;
+    }
+  });
   return (
-    <>
-      <Head>
-        <title>Friday Night Church | Songs</title>
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
-      <header className={styles.header}>
-        <span className={styles.logo}>
-          Friday Night <span>Church</span>
-        </span>
-        <span>
-          
-        </span>
-      </header>
-      <main>
-          <nav className={styles.songs}>
-            {songs.map(song => (
-              <div key={song.slug}>
-              <Link  href={`/songs/${song.slug}`} >
-                <a className={styles.link }>
-                  <div className={styles.icon}>
-                    <svg focusable="false" viewBox="0 0 24 24" aria-hidden="true" role="presentation"><path d="M12 3v10.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V7h4V3h-6z"></path></svg>
-                  </div>
-                  <div className={styles.content}>
-                    <span className={styles.title}>{song.data.title}</span>
-                    <p className={styles.artist}>{song.data.artist}</p>
-                  </div>
-                </a>
+    <Container maxWidth="md" disableGutters={true}>
+      <List>
+        {filteredList.map(song => {
+          return (
+            <>
+              <Link
+                key={song.slug}
+                href={"/songs/" + song.slug}
+                style={{ textDecoration: "none" }}
+              >
+                <ListItem button>
+                  <ListItemAvatar>
+                    <Avatar>
+                      <MusicNote />
+                    </Avatar>
+                  </ListItemAvatar>
+                  <ListItemText
+                    primary={song.data.title}
+                    secondary={song.data.artist}
+                  />
+                  {/* <ListItemSecondaryAction>
+                    <IconButton edge="end" aria-label="delete">
+                      <LikeIcon />
+                    </IconButton>
+                  </ListItemSecondaryAction> */}
+                </ListItem>
               </Link>
-              <hr />
-              </div>
-            ))}
-          </nav>
-      </main>
-    </>
-  )
-}
+              <Divider />
+            </>
+          );
+        })}
+      </List>
+      {/* <SearchBox /> */}
+    </Container>
+  );
+};
+
+export default SongPage;
 
 export const getStaticProps = async () => {
   // Get all the file names from the song folder
