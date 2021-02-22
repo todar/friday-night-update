@@ -1,7 +1,7 @@
 ---
 title: When I Look Into Your Holiness
 artist: Cathy Perrin, Wayne Perrin
-copyright: 1981 Integrity&#39;s Hosanna! Music
+copyright: 1981 Integrity's Hosanna! Music
 ---
 
 When I look into Your holiness
@@ -17,4 +17,3 @@ Become shadows in the light of You
 I worship You
 I worship You
 The reason I live is to worship You
-

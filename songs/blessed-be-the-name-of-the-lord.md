@@ -1,7 +1,7 @@
 ---
 title: Blessed Be The Name Of The Lord
 artist: Don Moen
-copyright: 1986 Integrity&#39;s Hosanna! Music
+copyright: 1986 Integrity's Hosanna! Music
 ---
 
 Blessed be the name of the Lord
@@ -11,15 +11,3 @@ So we lift up holy hands in one accord
 Singing, "Blessed be the name
 Blessed be the name
 Blessed be the name of the Lord"
-
-
-
-
-
-
-
-
-
-
-
-

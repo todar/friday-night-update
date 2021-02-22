@@ -1,7 +1,7 @@
 ---
 title: Let's Think About Our God
 artist: Tommy Walker
-copyright: 2000 Hosanna&#39;s Praise! Music
+copyright: 2000 Hosanna's Praise! Music
 ---
 
 Let's think about our God, our Savior and our King
@@ -28,17 +28,3 @@ He's never given up, given up on me or you
 
 Let's think about our God, His love and mercy free
 He's washed us white as snow, for all eternity
-
-
-
-
-
-
-
-
-
-
-
-
-
-

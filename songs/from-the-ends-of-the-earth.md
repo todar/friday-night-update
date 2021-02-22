@@ -1,7 +1,7 @@
 ---
 title: From The Ends Of The Earth
 artist: Don Harris, Gary Sadler
-copyright: 1996 Integrity&#39;s Hosanna! Music
+copyright: 1996 Integrity's Hosanna! Music
 ---
 
 <strong>[men lead, women echo]</strong>
@@ -22,5 +22,4 @@ Exalted in every nation
 Sovereign of all creation
 Lord Most High
 
-Be magnified    <strong>(4x)</strong>
-
+Be magnified <strong>(4x)</strong>

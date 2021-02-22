@@ -1,7 +1,7 @@
 ---
 title: Firm Foundation
 artist: Jamie Harvill, Nancy Gordon
-copyright: 1994 Integrity&#39;s Hosanna! Music
+copyright: 1994 Integrity's Hosanna! Music
 ---
 
 Jesus You're my firm foundation
@@ -24,4 +24,3 @@ God will deliver me
 Of this I'm sure
 
 Of this I'm sure
-

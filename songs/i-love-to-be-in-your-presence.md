@@ -1,7 +1,7 @@
 ---
 title: I Love To Be In Your Presence
 artist: Paul baloche, ed kerr
-copyright: 1992 Integrity&#39;s Hosanna! music
+copyright: 1992 Integrity's Hosanna! music
 ---
 
 I love to be in Your presence
@@ -21,18 +21,3 @@ Lift my hands
 Lift my hands
 Lift my hands
 And raise my voice
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

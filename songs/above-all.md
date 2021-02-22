@@ -1,7 +1,7 @@
 ---
 title: Above All
 artist: Lenny LeBlanc, Paul Baloche
-copyright: 1999 Integrity&#39;s Hosanna! Music
+copyright: 1999 Integrity's Hosanna! Music
 ---
 
 Above all powers, above all kings
@@ -14,20 +14,8 @@ Above all wonders the world has ever known
 Above all wealth and treasures of the earth
 There's no way to measure what You're worth
 
-
 Crucified, laid behind the stone
 You lived to die, rejected and alone
 Like a rose trampled on the ground
 You took the fall and thought of me
 Above all
-
-
-
-
-
-
-
-
-
-
-

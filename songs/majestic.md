@@ -1,7 +1,7 @@
 ---
 title: Majestic
 artist: Lincoln Brewster
-copyright: 2005 Integrity&#39;s Praise! Music
+copyright: 2005 Integrity's Praise! Music
 ---
 
 O Lord, our Lord

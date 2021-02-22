@@ -39,7 +39,11 @@ export const getStaticPaths = async () => {
 };
 
 export const getStaticProps = async ({ params }) => {
-  console.log(params);
+
+  marked.setOptions({
+    breaks: true
+  })
+  
   const rawMarkdown = fs
     .readFileSync(path.join("songs", params.song + ".md"))
     .toString();

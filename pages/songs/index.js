@@ -13,7 +13,14 @@ export default function Songs({songs}) {
         <title>Friday Night Church | Songs</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
+      <header className={styles.header}>
+        <span className={styles.logo}>
+          Friday Night <span>Church</span>
+        </span>
+        <span>
+          
+        </span>
+      </header>
       <main>
           <nav className={styles.songs}>
             {songs.map(song => (

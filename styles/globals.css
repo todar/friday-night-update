@@ -1,11 +1,15 @@
-@import url('./normalize.css');
+@import url("./normalize.css");
 
 :root {
+  --prime: rgb(247, 215, 37);
+  --bg-dark: rgb(31, 30, 28);
   --text: rgba(0, 0, 0, 0.87);
   --text-subtle: rgba(0, 0, 0, 0.54);
 }
 
-*, *::before,  *::after{
+*,
+*::before,
+*::after {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -25,7 +29,6 @@ body {
   letter-spacing: 0.00938em;
   color: var(--text);
 }
-
 
 a {
   color: inherit;

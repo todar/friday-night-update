@@ -1,7 +1,7 @@
 ---
 title: God Will Make A Way
 artist: Don Moen
-copyright: 1990, 2006 Integrity&#39;s Hosanna! Music
+copyright: 1990, 2006 Integrity's Hosanna! Music
 ---
 
 God will make a way
@@ -14,31 +14,3 @@ Hold me closely to His side
 With love and strength for each new day
 He will make a way
 He will make a way
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

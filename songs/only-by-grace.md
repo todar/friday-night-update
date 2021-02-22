@@ -1,7 +1,7 @@
 ---
 title: Only By Grace
 artist: gerrit gustafson
-copyright: 1990 Integrity&#39;s hosanna! music
+copyright: 1990 Integrity's hosanna! music
 ---
 
 Only by grace can we enter
