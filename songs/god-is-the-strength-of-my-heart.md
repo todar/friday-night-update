@@ -11,6 +11,6 @@ But there is one truth that always will prevail
 
 God is the strength of my heart <strong>(3x)</strong>
 And my portion forever
-Forever � Forever <strong>[women echo]</strong>
+Forever, Forever <strong>[women echo]</strong>
 
 God is my strength

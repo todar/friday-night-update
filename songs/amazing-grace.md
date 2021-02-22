@@ -9,7 +9,7 @@ That saved a wretch like me
 I once was lost, but now am found
 Was blind, but now I see
 
-‘Twas grace that taught my heart to fear
+'Twas grace that taught my heart to fear
 And grace my fears relieved
 How precious did that grace appear
 The hour I first believed
@@ -21,7 +21,7 @@ Unending love, amazing grace
 
 Through many dangers, toils, and snares
 I have already come
-‘Tis grace hath brought me safe thus far
+'Tis grace hath brought me safe thus far
 And grace will lead me home
 
 The Lord has promised good to me
@@ -36,4 +36,3 @@ Ten thousand years
 Bright shining as the sun
 We've no less days to sing God's praise
 Than when we'd first begun
-

@@ -3,8 +3,6 @@ import matter from "gray-matter";
 import fs from "fs";
 import path from "path";
 import Head from "next/head";
-
-
 import Container from "@material-ui/core/Container";
 import Typography from "@material-ui/core/Typography";
 import Box from "@material-ui/core/Box";

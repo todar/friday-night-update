@@ -11,6 +11,5 @@ Behold how good and how pleasant it is
 For brethren to dwell together
 In unity, to dwell in unity
 
-La, la la la…
+La, la la la
 In unity, to dwell in unity
-
