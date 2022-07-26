@@ -1,6 +1,6 @@
 ---
 title: In Christ Alone
-artist: Julian Keith Getty, Stuart Richard Townend
+artist: Keith Getty, Stuart Townend
 copyright: 2001 Thankyou Music
 ---
 
