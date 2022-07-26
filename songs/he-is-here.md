@@ -1,7 +1,7 @@
 ---
 title: He Is Here
 artist: Jimmy Owens
-copyright: 1972 Bud John Songs, Inc. New lyrics by Dave Cottrell
+copyright: 1972 Bud John Songs, Inc.   New lyrics by Dave Cottrell
 ---
 
 He is here, He is here
