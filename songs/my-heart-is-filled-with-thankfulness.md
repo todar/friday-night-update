@@ -3,7 +3,6 @@ title: My Heart Is Filled With Thankfulness
 artist: Keith Getty, Stuart Townend
 copyright: 2003 Thankyou Music
 ---
-
 My heart is filled with thankfulness
 To Him who bore my pain
 Who plumbed the depths of my disgrace
@@ -31,12 +30,7 @@ Is given by the King
 So I will give my life my all
 To love and follow Him
 
-
-
-
-
-
-
-
-
-
+For every day I have on earth
+Is given by the King
+So I will give my life my all
+To love and follow Him
