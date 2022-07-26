@@ -3,7 +3,6 @@ title: Let The Earth Resound
 artist: Keith Getty, Stuart Townend
 copyright: 2006 Thankyou Music
 ---
-
 Let the earth resound with songs of praise
 To the Father's power and love
 For the One who set each star in place
@@ -13,10 +12,10 @@ Yet whose mercies never cease
 As the tapestry of history 
 Tells the story of His grace
 
-King immortal, faithful God
-Crowned with splendor, rich in love
-Let the heavens and the earth resound
-With songs of praise to You
+   King immortal, faithful God
+   Crowned with splendor, rich in love
+   Let the heavens and the earth resound
+   With songs of praise to You
 
 Let the earth be stilled before the sight
 Of a Father's sacrifice
@@ -27,7 +26,10 @@ And a death in agony
 He removed the rebel's punishment
 And He set the prisoner free
 
-<strong>(Chorus)</strong>
+   King immortal, faithful God
+   Crowned with splendor, rich in love
+   Let the heavens and the earth resound
+   With songs of praise to You
 
 Let the earth resound with songs of faith
 At the wonder yet to come
@@ -38,6 +40,12 @@ And we meet the Father's gaze
 And we share in His eternal joy
 As we join in ceaseless praise
 
+   King immortal, faithful God
+   Crowned with splendor, rich in love
+   Let the heavens and the earth resound
+   With songs of praise to You
 
-
-
+   King immortal, faithful God
+   Crowned with splendor, rich in love
+   Let the heavens and the earth resound
+   With songs of praise to You
