@@ -1,4 +1,4 @@
-import marked from "marked";
+import {marked} from "marked";
 import matter from "gray-matter";
 import fs from "fs";
 import path from "path";
@@ -63,9 +63,10 @@ export const getStaticPaths = async () => {
 };
 
 export const getStaticProps = async ({ params }) => {
-
+  
   marked.setOptions({
-    breaks: true
+    breaks: true,
+    gfm: true
   })
   
   const rawMarkdown = fs
@@ -73,7 +74,7 @@ export const getStaticProps = async ({ params }) => {
     .toString();
 
   const parsedMarkdown = matter(rawMarkdown);
-
+  
   return {
     props: {
       song: {

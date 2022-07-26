@@ -22,7 +22,6 @@ const SongPage = ({ songs }) => {
   const [{ value }] = useSearch();
 
   const filteredList = songs.filter(song => {
-    console.log(song.data.title);
     if (
       song.data.title.toLowerCase().includes(value.toLowerCase()) ||
       value === ""
