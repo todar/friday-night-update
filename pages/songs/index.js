@@ -26,6 +26,7 @@ const SongPage = ({ songs }) => {
     if (
       song.data.title.toLowerCase().includes(value.toLowerCase()) ||
       song.data.artist.toLowerCase().includes(value.toLowerCase())|| 
+      song.data?.tags?.map(x => x.toLowerCase()).some(x => x.includes(value.toLowerCase())) || 
       value === "" 
     ) {
       return song;
