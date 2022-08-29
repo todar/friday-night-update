@@ -30,7 +30,7 @@ const SEO = () => {
       <meta property="og:title" content="Friday Night Church" />
       <meta
         property="og:description"
-        content="Friday Night Church is a group that meets every Friday at Citizens Church in North Phoenix."
+        content="Friday Night Fellowship is a group that meets every Friday in North Phoenix."
       />
       <meta property="og:url" content="https://fridaynight.info/" />
       <meta

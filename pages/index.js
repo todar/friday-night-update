@@ -12,23 +12,23 @@ import CardContent from "@material-ui/core/CardContent";
 import Typography from "@material-ui/core/Typography";
 
 const sectionStyle = {
-  backgroundColor: "rgb(31, 32, 35)",
-  background: `linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./showcase.jpg")`,
-  backgroundPosition: "center",
-  backgroundRepeat: "no-repeat",
-  backgroundSize: "cover",
-  color: "#fff",
-  marginTop: "-2.5rem",
-  height: "100vh"
+  // backgroundColor: "rgb(31, 32, 35)",
+  // background: `linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./showcase.jpg")`,
+  // backgroundPosition: "center",
+  // backgroundRepeat: "no-repeat",
+  // backgroundSize: "cover",
+  // color: "#fff",
+  // marginTop: "-2.5rem",
+  // height: "100vh"
 };
 
 const HomePage = () => {
   return (
     <section style={sectionStyle}>
       <Container maxWidth="md">
-        <Box py={4}>
-          <Box marginTop={0} display="flex" justifyContent="center">
-            <img src="./showcase-logo.png" alt="Friday Night Showcase Logo" />
+        <Box py={4} >
+          <Box mb={2}display="flex" justifyContent="center">
+            <Typography color="textPrimary" variant="h2">Friday Night Fellowship</Typography>
           </Box>
           <Card color="primary">
             <CardContent>

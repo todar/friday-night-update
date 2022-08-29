@@ -55,18 +55,18 @@ const navbar = () => {
           label="Songs"
           icon={<SongsIcon />}
         />
-        <BottomNavigationAction
+        {/* <BottomNavigationAction
           component={Link}
           href="/connect"
           label="Connect"
           icon={<ConnectIcon />}
-        />
-        <BottomNavigationAction
+        /> */}
+        {/* <BottomNavigationAction
           component={Link}
           href="/settings"
           label="Settings"
           icon={<SettingsIcon />}
-        />
+        /> */}
       </StyledBottomNavigation>
     </NoSsr>
   );
