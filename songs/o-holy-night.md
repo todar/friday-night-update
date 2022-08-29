@@ -2,6 +2,8 @@
 title: O Holy Night
 artist: Unknown
 copyright: (YEAR UNKNOWN)
+tags:
+  - christmas
 ---
 
 O holy night! The stars are brightly shining
