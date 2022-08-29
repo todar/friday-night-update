@@ -1,5 +1,9 @@
+/**
+ * @type {import('next').NextConfig}
+ */
+ const nextConfig = {
+  /* config options here */
+  
+}
 
-          module.exports = {
-            target: 'serverless'
-          }
-        
+export default nextConfig
