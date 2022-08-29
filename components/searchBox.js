@@ -6,6 +6,7 @@ import InputAdornment from "@material-ui/core/InputAdornment";
 import ClearIcon from "@material-ui/icons/Clear";
 
 import { useSearch, types } from "../context/searchContext";
+import { withTheme } from "@material-ui/core";
 
 const searchBox = () => {
   const [{ value }, dispatch] = useSearch();
@@ -18,7 +19,7 @@ const searchBox = () => {
     dispatch({ type: types.SET_VALUE, payload: "" });
   }
   return (
-    <Container style={style} maxWidth="md">
+    <Container maxWidth="md" style={style}>
       <form>
         <TextField
           color="secondary"
@@ -49,7 +50,11 @@ const searchBox = () => {
 
 const style = {
   position: "fixed",
-  bottom: "70px"
+  top: 0,
+  backgroundColor: "#ffffff",
+  zIndex: 3000,
+  padding: "5px",
+  borderRadius: "5px"
 };
 
 export default searchBox;

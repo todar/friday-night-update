@@ -8,11 +8,13 @@ import { ThemeProvider } from "@material-ui/core/styles";
 import CssBaseline from "@material-ui/core/CssBaseline";
 import Navbar from "./navbar";
 import theme from "../theme";
+import searchBox from "./searchBox"
 
 const Layout = ({ children }) => {
   return (
     <ThemeProvider theme={theme}>
       <CssBaseline />
+      
       <main style={mainStyle}>
         {children}
         <Navbar />

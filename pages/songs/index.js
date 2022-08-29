@@ -17,6 +17,7 @@ import LikeIcon from "@material-ui/icons/Favorite";
 
 import SearchBox from "../../components/searchBox";
 import { useSearch } from "../../context/searchContext";
+import { Box } from "@material-ui/core";
 
 const SongPage = ({ songs }) => {
   const [{ value }] = useSearch();
@@ -24,13 +25,17 @@ const SongPage = ({ songs }) => {
   const filteredList = songs.filter(song => {
     if (
       song.data.title.toLowerCase().includes(value.toLowerCase()) ||
-      value === ""
+      song.data.artist.toLowerCase().includes(value.toLowerCase())|| 
+      value === "" 
     ) {
       return song;
     }
   });
   return (
-    <Container maxWidth="md" disableGutters={true}>
+    <Container  maxWidth="md" disableGutters={true}>
+        <SearchBox />
+      <Box mb={6}>
+      </Box>
       <List>
         {filteredList.map(song => {
           return (
