@@ -2,6 +2,8 @@
 title: Silent Night
 artist: Unknown
 copyright: (YEAR UNKNOWN)
+tags:
+  - Christmas
 ---
 
 Silent night! Holy night!
