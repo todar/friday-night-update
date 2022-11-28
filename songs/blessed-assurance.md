@@ -1,26 +1,34 @@
 ---
 title: Blessed Assurance
-artist: Fanny Jane Crosby, Michael Adler, Phoebe Palmer Knapp
-copyright: 2000 Michael Adler
+artist: Fanny Crosby
+copyright: " "
 ---
-
 Blessed assurance, Jesus is mine
 O what a foretaste of glory divine
 Heir of salvation, purchase of God
 Born of His Spirit, washed in His blood
 
-This is my story, this is my song
-Praising my Savior, all the day long    <strong>(2x)</strong>
+ ** *This is my story, this is my song
+  Praising my Savior, all the day long
+  This is my story, this is my song
+  Praising my Savior, all the day long***
 
 Perfect submission, perfect delight
 Visions of rapture now burst on my sight
 Angels descending, bring from above
 Echoes of mercy, whispers of love
 
-<strong>(Chorus)</strong>
+ ** *This is my story, this is my song
+  Praising my Savior, all the day long
+  This is my story, this is my song
+  Praising my Savior, all the day long***
 
 Perfect submission, all is at rest
 I in my Savior am happy and blest
 Watching and waiting, looking above
 Filled with His goodness, lost in His love
 
+ ** *This is my story, this is my song
+  Praising my Savior, all the day long
+  This is my story, this is my song
+  Praising my Savior, all the day long***
