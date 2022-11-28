@@ -2,6 +2,8 @@
 title: Angels We Have Heard On High
 artist: " "
 copyright: " "
+tags:
+  - Christmas
 ---
 Angels we have heard on high
 Sweetly singing o'er the plains
