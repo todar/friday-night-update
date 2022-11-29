@@ -1,9 +1,8 @@
 ---
 title: How Deep The Father's Love For Us
-artist: Stuart townend
+artist: Stuart Townend
 copyright: 1995 Thankyou music
 ---
-
 How deep the Father's love for us
 How vast beyond all measure
 That He should give His only Son
@@ -30,9 +29,3 @@ Why should I gain from His reward?
 I cannot give an answer
 But this I know with all my heart
 His wounds have paid my ransom
-
-
-
-
-
-
