@@ -1,9 +1,10 @@
 ---
 title: Hark! The Herald Angels Sing
-artist: Unknown
-copyright: (YEAR UNKNOWN)
+artist: " "
+copyright: " "
+tags:
+  - Christmas
 ---
-
 Hark! The herald angels sing,
 "Glory to the newborn King"
 Peace on earth, and mercy mild
