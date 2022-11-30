@@ -1,9 +1,8 @@
 ---
 title: Thanks Be To God
 artist: Lauren Locker, Dave Cottrell
-copyright: 1981 Lauren locker & dave cottrell
+copyright: ©1981 Lauren Locker & Dave Cottrell
 ---
-
 Thanks be to God
 And His glorious name
 Who died on the cross
@@ -13,8 +12,3 @@ May His glory ever be
 
 Thanks be to God
 Who is, and was, and ever shall be
-
-
-
-
-
