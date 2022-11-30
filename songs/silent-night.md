@@ -1,11 +1,10 @@
 ---
 title: Silent Night
-artist: Unknown
-copyright: (YEAR UNKNOWN)
+artist: Joseph Mohr
+copyright: " "
 tags:
   - Christmas
 ---
-
 Silent night! Holy night!
 All is calm, all is bright
 Round yon virgin mother and Child
@@ -26,8 +25,3 @@ Radiant beams from Thy holy face
 With the dawn of redeeming grace
 Jesus, Lord, at Thy birth
 Jesus, Lord, at Thy birth
-
-
-
-
-
