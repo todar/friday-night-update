@@ -1,9 +1,8 @@
 ---
 title: Praise Him! Praise Him!
-artist: fanny crosby
-copyright: public domain
+artist: Fanny Crosby
+copyright: " "
 ---
-
 Praise Him! Praise Him!
 Jesus, our blessed Redeemer
 Sing, O earth, His wonderful love proclaim
@@ -12,10 +11,10 @@ Strength and honor give to His holy name
 Like a shepherd, Jesus will guard His children
 In His arms He carries them all day long
 
-Praise Him! Praise Him!
-Tell of His excellent greatness
-Praise Him! Praise Him!
-Ever in joyful song
+ ** * Praise Him! Praise Him! 
+   Tell of His excellent greatness
+   Praise Him! Praise Him! 
+   Ever in joyful song***
 
 Praise Him! Praise Him!
 Jesus, our blessed Redeemer
@@ -24,6 +23,11 @@ He, our Rock, our hope of eternal salvation
 Hail Him! Hail Him! Jesus, the Crucified
 Sound His praises, Jesus, who bore our sorrows
 Love unbounded, wonderful, deep, and strong
+
+ ** * Praise Him! Praise Him! 
+   Tell of His excellent greatness
+   Praise Him! Praise Him! 
+   Ever in joyful song***
 
 Praise Him! Praise Him!
 Jesus, our blessed Redeemer
@@ -34,9 +38,7 @@ Prophet and Priest and King
 Christ is coming, over the world victorious
 Pow'r and glory unto the Lord belong
 
-
-
-
-
-
-
+ ** * Praise Him! Praise Him! 
+   Tell of His excellent greatness
+   Praise Him! Praise Him! 
+   Ever in joyful song***
