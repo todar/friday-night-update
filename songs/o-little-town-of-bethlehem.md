@@ -1,9 +1,10 @@
 ---
 title: O Little Town Of Bethlehem
-artist: Unknown
-copyright: (YEAR UNKNOWN)
+artist: " Phillips Brooks"
+copyright: " 1868 Phillips Brooks"
+tags:
+  - Christmas
 ---
-
 O little town of Bethlehem
 How still we see thee lie
 Above thy deep and dreamless sleep
@@ -39,4 +40,3 @@ We hear the Christmas angels
 The great glad tidings tell
 O come to us, abide with us
 Our Lord Emmanuel
-
