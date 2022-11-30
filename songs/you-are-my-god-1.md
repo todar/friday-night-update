@@ -51,9 +51,3 @@ and I want You, I want You
   I worship You
 
  You are my God
-
-
-
-```
-
-```
