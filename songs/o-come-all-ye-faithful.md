@@ -2,6 +2,8 @@
 title: O Come, All Ye Faithful
 artist: " "
 copyright: " "
+tags:
+  - Christmas
 ---
 O come, all ye faithful
 Joyful and triumphant
