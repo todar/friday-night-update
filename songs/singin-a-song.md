@@ -1,5 +1,5 @@
 ---
-title: Singin' A Song
+title: Singin' a Song
 artist: Dave Cottrell
 copyright: ©1978,2022 Dave Cottrell
 ---
