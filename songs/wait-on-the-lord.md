@@ -1,15 +1,16 @@
 ---
-title: Wait On The Lord
-artist: Unknown
-copyright: (YEAR UNKNOWN) Maranatha! Music
+title: We Must Wait (On The Lord)
+artist: Randy Thomas
+copyright: 1979 CCCM Music, Universal Music - Brentwood Benson Publishing
 ---
-
-We must wait, <strong>(wait)</strong>, wait <strong>(wait)</strong>
-Wait on the Lord     <strong>[repeat]</strong>
+We must wait, (wait), wait (wait)
+Wait on the Lord
+We must wait, (wait), wait (wait)
+Wait on the Lord
 
 And learn our lessons well
 In His timing, He will tell us
 
-what to do
-where to go
-what to say
+What to do
+Where to go
+What to say
