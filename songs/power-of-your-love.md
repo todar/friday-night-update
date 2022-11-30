@@ -3,25 +3,24 @@ title: Power Of Your Love
 artist: Geoff Bullock
 copyright: 1992 Word Music LLC
 ---
-
 Lord, I come to You
 Let my heart be changed, renewed
 Flowing from the grace that I've found in You
 
-Lord, I've come to know
+LLord I've come to know
 The weaknesses I see in me
-Will be stripped away by the power of Your love
+Will be stripped away
+By the power of Your love
 
-Hold me close
-Let Your love surround me
-Bring me near
-Draw me to Your side
-
-And as I wait
-I'll rise up like the eagle
-And I will soar with You
-Your Spirit leads me on
-In the power of Your love
+ ** * Hold me close
+   Let Your love surround me
+   Bring me near
+   Draw me to Your side
+   And as I wait
+   I'll rise up like the eagle
+   And I will soar with You
+   Your Spirit leads me on
+   In the power of Your love***
 
 Lord, unveil my eyes
 Let me see You face to face
@@ -31,13 +30,25 @@ Lord, renew my mind
 As Your will unfolds in my life
 In living every day by the power of Your love
 
+ ** * Hold me close
+   Let Your love surround me
+   Bring me near
+   Draw me to Your side
+   And as I wait
+   I'll rise up like the eagle
+   And I will soar with You
+   Your Spirit leads me on
+   In the power of Your love***
 
+ ** * Hold me close
+   Let Your love surround me
+   Bring me near
+   Draw me to Your side
+   And as I wait
+   I'll rise up like the eagle
+   And I will soar with You
+   Your Spirit leads me on***
 
-
-
-
-
-
-
-
-
+ ** * In the power of Your love
+   In the power of Your love
+   In the power of Your love***
