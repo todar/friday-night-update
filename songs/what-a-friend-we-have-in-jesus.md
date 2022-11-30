@@ -1,9 +1,8 @@
 ---
 title: What A Friend We Have In Jesus
-artist: Joseph M. Scriven and Charles C. Converse
-copyright: Public Domain
+artist: Joseph M. Scriven, Charles C. Converse
+copyright: " "
 ---
-
 What a friend we have in Jesus
 All our sins and griefs to bear
 What a privilege to carry
@@ -31,3 +30,7 @@ Take it to the Lord in prayer
 In His arms He'll take and shield you
 You will find a solace there
 
+What a friend we have in Jesus
+All our sins and griefs to bear
+What a privilege to carry
+Everything to God in prayer
