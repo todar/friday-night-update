@@ -1,42 +1,61 @@
 ---
 title: Ten Thousand Reasons
-artist: jonas myrin, matt redman
-copyright: 2011 thankyou music
+artist: Jonas Myrin, Matt Redman
+copyright: 2011 Thankyou Music
 ---
+ ** *Bless the Lord, O my soul
+  O my soul
+  Worship His Holy name
+  Sing like never before
+  O my soul
+  I'll worship Your Holy name***
 
-Bless the Lord, O my soul
-O my soul
-Worship His holy name
-Sing like never before
-O my soul
-I'll worship Your holy name
-
-The sun comes up, it's a new day dawning
+The sun comes up
+It's a new day dawning
 It's time to sing Your song again
-Whatever may pass, and whatever lies before me
-Let me be singing when the evening comes
+Whatever may pass
+And whatever lies before me
+Let me be singing
+When the evening comes
 
-<strong>(Chorus)</strong>
+ ** *Bless the Lord, O my soul
+  O my soul
+  Worship His Holy name
+  Sing like never before
+  O my soul
+  I'll worship Your Holy name***
 
-You're rich in love, and You're slow to anger
-Your name is great, and Your heart is kind
-For all Your goodness I will keep on singing
-Ten thousand reasons for my heart to find
+You're rich in love
+And You're slow to anger
+Your name is great
+And Your heart is kind
+For all Your goodness
+I will keep on singing
+Ten thousand reasons
+For my heart to find
 
-<strong>(Chorus)</strong>
+ ** *Bless the Lord, O my soul
+  O my soul
+  Worship His Holy name
+  Sing like never before
+  O my soul
+  I'll worship Your Holy name***
 
-And on that day when my strength is failing
-The end draws near and my time has come
-Still my soul will sing Your praise unending
-Ten thousand years and then forevermore
+And on that day
+When my strength is failing
+The end draws near
+And my time has come
+Still my soul will sing
+Your praise unending
+Ten thousand years
+And then forevermore
 
-<strong>(Chorus)</strong>
+ ** *Bless the Lord, O my soul
+  O my soul
+  Worship His Holy name
+  Sing like never before
+  O my soul
+  I'll worship Your Holy name***
 
-I'll worship Your holy name
-Yes, I'll worship Your holy name
-
-
-
-
-
-
+ ** *I'll worship Your Holy name
+  Yes, I'll worship Your Holy name***
