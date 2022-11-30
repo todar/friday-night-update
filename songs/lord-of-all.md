@@ -1,7 +1,7 @@
 ---
 title: Lord Of All
-artist: Unknown
-copyright: Unknown
+artist: " "
+copyright: " "
 ---
 He's the Lord of the sky
 He's the Lord of the sea
