@@ -1,5 +1,5 @@
 ---
-title: O, For A Thousand Tongues To Sing
+title: O For A Thousand Tongues To Sing
 artist: Carl Gotthelf Glaser, Charles Wesley
 copyright: public domain
 ---
