@@ -7,6 +7,9 @@ import React from "react";
 import Layout from "../components/layout";
 import Head from "next/head";
 import SEO from "../components/SEO";
+import * as firebase from '../firebase'
+
+
 
 import { SearchProvider } from "../context/searchContext";
 
