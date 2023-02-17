@@ -3,8 +3,7 @@ title: Here Am I — Send Me
 artist: Dave Cottrell
 copyright: 2013 Dave Cottrell
 ---
-<strong>(Isaiah 6:8; Romans 10:13-14)</strong>
-
+<strong>      (Isaiah 6:8; Romans 10:13-14)</strong>
 
 The Lord asked, "Whom shall I send
 And who will go for Us?"
