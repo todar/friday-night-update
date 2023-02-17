@@ -27,6 +27,8 @@ And the fields produce no food
    in the God of my salvation
   I will exult in the LORD***
 
+**The Lord GOD is my strength**  (3x)
+
 Though the flock should be cut off from the fold
 And there be no cattle in the stalls
 Though the flock should be cut off from the fold
@@ -37,6 +39,8 @@ And there be no cattle in the stalls
   I will rejoice
    in the God of my salvation
   I will exult in the LORD***
+
+**The Lord GOD is my strength**  (3x)
 
  ** *I will exult in the LORD
   I will exult in the LORD
