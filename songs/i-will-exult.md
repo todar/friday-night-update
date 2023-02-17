@@ -3,7 +3,7 @@ title: I Will Exult
 artist: Dave Cottrell
 copyright: © 2022  Dave Cottrell
 ---
- **\    (Habakkuk 3:17-19)**
+  **\    (Habakkuk 3:17-19)**
 
 Though the fig tree should not blossom
 And there be no fruit on the vines
