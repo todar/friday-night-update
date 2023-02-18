@@ -3,7 +3,7 @@ title: Seek First His Kingdom
 artist: Dave Cottrell
 copyright: ©1996 Dave Cottrell
 ---
- **   (Matthew 6:33; Luke 12:24-27)**
+ **  (Matthew 6:33; Luke 12:24-27)**
 
  ***Seek first His kingdom
  And His righteousness

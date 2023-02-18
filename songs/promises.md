@@ -11,7 +11,7 @@ And His perfect plan
  is lighted by His word
 How unsearchable His wisdom to us
 
- ** * For joy unspeakable
+ ***For joy unspeakable
     lies in His perfect will
    A peace that
     surpasses understanding
@@ -28,7 +28,7 @@ For delight yourself in God
 And He will grant you
  the desires of your heart
 
- ** * For joy unspeakable
+ ***For joy unspeakable
     lies in His perfect will
    A peace that
     surpasses understanding
@@ -44,7 +44,7 @@ And lean not unto
 In all your ways acknowledge Him
 And He will direct your paths
 
- ** * For joy unspeakable
+ ***For joy unspeakable
     lies in His perfect will
    A peace that
     surpasses understanding

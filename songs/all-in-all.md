@@ -10,7 +10,7 @@ Seeking You as a precious jewel
 Lord, to give up I'd be a fool
 You are my all in all
 
- ** *Jesus, Lamb of God
+ ***Jesus, Lamb of God
   Worthy is Your name
   Jesus, Lamb of God
   Worthy is Your name***

@@ -13,7 +13,7 @@ For here my heart is satisfied
 Within Your presence
 I rest beneath the shadow of Your wings
 
- ** *Better is one day in Your courts
+ ***Better is one day in Your courts
   Better is one day in Your house
   Better is one day in Your courts
   Than thousands elsewhere
@@ -30,7 +30,7 @@ One thing I ask and I would seek
 To see Your beauty
 To find You in the place Your glory dwells
 
- ** *Better is one day in Your courts
+ ***Better is one day in Your courts
   Better is one day in Your house
   Better is one day in Your courts
   Than thousands elsewhere
@@ -48,7 +48,7 @@ Come once again to me
 I will draw near to You
 I will draw near to You
 
- ** *Better is one day
+ ***Better is one day
   Better is one day
   Better is one day
   Than thousands elsewhere
@@ -65,7 +65,7 @@ For here my heart is satisfied
 Within Your presence
 I rest beneath the shadow of Your wings
 
- ** *Better is one day in Your courts
+ ***Better is one day in Your courts
   Better is one day in Your house
   Better is one day in Your courts
   Than thousands elsewhere
@@ -83,7 +83,7 @@ Come once again to me
 I will draw near to You
 I will draw near to You
 
- ** *Better is one day in Your courts
+ ***Better is one day in Your courts
   Better is one day in Your house
   Better is one day in Your courts
   Than thousands elsewhere

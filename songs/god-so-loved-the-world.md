@@ -3,7 +3,7 @@ title: God So Loved The World
 artist: Jimmy & Carol Owens
 copyright: " "
 ---
- **  (John 3:16-17)**
+ ** (John 3:16-17)**
 
 
 God so loved the world

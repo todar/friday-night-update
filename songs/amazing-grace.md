@@ -13,7 +13,7 @@ And grace my fears relieved
 How precious did that grace appear
 The hour I first believed
 
- ** *My chains are gone, I've been set free
+ ***My chains are gone, I've been set free
   My God, My Savior has ransomed me
   And like a flood, His mercy reigns
   Unending love, amazing grace***
@@ -29,7 +29,7 @@ Bright shining as the sun
 We've no less days to sing God's praise
 Than when we'd first begun
 
- ** *My chains are gone, I've been set free
+ ***My chains are gone, I've been set free
   My God, My Savior has ransomed me
   And like a flood, His mercy reigns
   Unending love, amazing grace***

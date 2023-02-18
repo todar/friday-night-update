@@ -12,7 +12,7 @@ Was born on Christmas day
 To save us all from Satan's power
 When we were gone astray
 
- ** *O tidings of comfort and joy
+ ***O tidings of comfort and joy
   Comfort and joy
   O tidings of comfort and joy***
 
@@ -23,7 +23,7 @@ Brought tidings of the same
 How that in Bethlehem was born
 The Son of God by name
 
- ** *O tidings of comfort and joy
+ ***O tidings of comfort and joy
   Comfort and joy
   O tidings of comfort and joy***
 
@@ -34,7 +34,7 @@ Of a pure Virgin bright
 To free all those who trust in Him
 From Satan's power and might"
 
- ** *O tidings of comfort and joy
+ ***O tidings of comfort and joy
   Comfort and joy
   O tidings of comfort and joy***
 
@@ -45,6 +45,6 @@ Each other now embrace
 In holy celebration
 Lift up your joyous face
 
- ** *O tidings of comfort and joy
+ ***O tidings of comfort and joy
   Comfort and joy
   O tidings of comfort and joy***

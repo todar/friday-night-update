@@ -13,12 +13,12 @@ When I'm found in the desert place
 Though I walk through the wilderness
 Blessed be Your name
 
- ** *Every blessing You pour out
+ ***Every blessing You pour out
   I'll turn back to praise
   When the darkness closes in, Lord
   Still I will say:***
 
- ** *Blessed be the name of the Lord
+ ***Blessed be the name of the Lord
   Blessed be Your name
   Blessed be the name of the Lord
   Blessed be Your glorious name!***
@@ -33,12 +33,12 @@ On the road marked with suffering
 Though there's pain in the offering
 Blessed be Your name
 
- ** *Every blessing You pour out
+ ***Every blessing You pour out
   I'll turn back to praise
   When the darkness closes in, Lord
   Still I will say:***
 
- ** *Blessed be the name of the Lord
+ ***Blessed be the name of the Lord
   Blessed be Your name
   Blessed be the name of the Lord
   Blessed be Your glorious name!***
@@ -53,12 +53,12 @@ You give and take away
 My heart will choose to say
 Lord, blessed be Your name!
 
- ** *Blessed be the name of the Lord
+ ***Blessed be the name of the Lord
   Blessed be Your name
   Blessed be the name of the Lord
   Blessed be Your glorious name!***
 
- ** *Blessed be the name of the Lord
+ ***Blessed be the name of the Lord
   Blessed be Your name
   Blessed be the name of the Lord
   Blessed be Your glorious name!***

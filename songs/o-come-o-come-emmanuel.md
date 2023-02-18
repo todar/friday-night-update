@@ -10,13 +10,13 @@ And ransom captive Israel
 That mourns in lonely exile here
 Until the Son of God appear
 
- ** * Rejoice! Rejoice!
-   Emmanuel shall come to thee, O Israel*** 
+ ***Rejoice! Rejoice!
+   Emmanuel shall come to thee, O Israel***
 
 O come, Thou Day-spring, come and cheer
 Our spirits by Thine advent here
 And drive away the shades of night
 And pierce the clouds and bring us light
 
- ** * Rejoice! Rejoice!
+ ***Rejoice! Rejoice!
    Emmanuel shall come to thee, O Israel***

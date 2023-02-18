@@ -13,7 +13,7 @@ Holy, holy is He
 Sing a new song to Him who sits on
 Heaven's mercy seat
 
- ** *Holy, holy, holy
+ ***Holy, holy, holy
   Is the Lord God Almighty
   Who was, and is, and is to come
   With all creation I sing
@@ -27,7 +27,7 @@ Blessing and honor, strength and
  glory and power be
 To You the only wise King
 
- ** *Holy, holy, holy
+ ***Holy, holy, holy
   Is the Lord God Almighty
   Who was, and is, and is to come
   With all creation I sing
@@ -41,7 +41,7 @@ Jesus, Your name is power,
  breath, and living water
 Such a marvelous mystery
 
- ** *Holy, holy, holy
+ ***Holy, holy, holy
   Is the Lord God Almighty
   Who was, and is, and is to come
   With all creation I sing
@@ -49,7 +49,7 @@ Such a marvelous mystery
   You are my everything
   And I will adore You***
 
- ** *Holy, holy, holy
+ ***Holy, holy, holy
   Is the Lord God Almighty
   Who was, and is, and is to come
   With all creation I sing

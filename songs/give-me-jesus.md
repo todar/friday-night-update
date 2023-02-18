@@ -8,7 +8,7 @@ In the morning, when I rise
 In the morning, when I rise
 Give me Jesus
 
- ** *Give me Jesus
+ ***Give me Jesus
   Give me Jesus
   You can have all this world
   Just give me Jesus***
@@ -18,7 +18,7 @@ When I am alone
 Oh, when I am alone
 Give me Jesus
 
- ** *Give me Jesus
+ ***Give me Jesus
   Give me Jesus
   You can have all this world
   Just give me Jesus***
@@ -28,12 +28,12 @@ When I come to die
 Oh, when I come to die
 Give me Jesus
 
- ** *Give me Jesus
+ ***Give me Jesus
   Give me Jesus
   You can have all this world
   Just give me Jesus***
 
- ** *Give me Jesus
+ ***Give me Jesus
   Give me Jesus
   You can have all this world
   You can have all this world

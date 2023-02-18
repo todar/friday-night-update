@@ -11,7 +11,7 @@ Crucified to set me free
 King of glory, now my eyes can see
  Your majesty
 
- ** * I will praise You, I'll praise You
+ ***I will praise You, I'll praise You
    I'll praise You, I'll praise You
     for all eternity
    I will sing, I will sing
@@ -26,7 +26,7 @@ Sing aloud my soul awake
 Sing of His unfailing love and grace
  All my days
 
- ** * I will praise You, I'll praise You
+ ***I will praise You, I'll praise You
    I'll praise You, I'll praise You
     for all eternity
    I will sing, I will sing
@@ -38,7 +38,7 @@ As angel eyes behold Your face
 No one else compares with You
 So I'll bow in awe of You
 
- ** * I will praise You, I'll praise You
+ ***I will praise You, I'll praise You
    I'll praise You, I'll praise You
     for all eternity
    I will sing, I will sing

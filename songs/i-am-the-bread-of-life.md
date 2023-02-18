@@ -20,12 +20,12 @@ I am the bread of life
 And he who believes in Me
   will never thirst
 
- ** *I am the living bread
+ ***I am the living bread
   That came down out of heaven
   If anyone eats of this bread
   He will live forever***
 
- ** *I am the living bread
+ ***I am the living bread
   That came down out of heaven
   If anyone eats of this bread
   He will live forever***
@@ -44,16 +44,16 @@ I am the bread of life
 And he who believes in Me
   will never thirst
 
- ** *I am the living bread
+ ***I am the living bread
   That came down out of heaven
   If anyone eats of this bread
   He will live forever***
 
- ** *I am the living bread
+ ***I am the living bread
   That came down out of heaven
   If anyone eats of this bread
   He will live forever***
 
- ** *He will live forever***
+ ***He will live forever***
 
 I am the bread of life

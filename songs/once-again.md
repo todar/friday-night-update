@@ -13,7 +13,7 @@ I've wondered at Your gift of life
 And I'm in that place once again
 I'm in that place once again
 
- ** *Once again
+ ***Once again
   I look upon the cross where You died
   I’m humbled by Your mercy
   And I’m broken inside
@@ -30,7 +30,7 @@ I marvel at Your saving grace
 And I'm full of praise once again
 I'm full of praise once again
 
- ** *Once again
+ ***Once again
   I look upon the cross where You died
   I’m humbled by Your mercy
   And I’m broken inside
@@ -45,7 +45,7 @@ Thank You for the cross
 Thank You for the cross
 Thank You for the cross, my friend
 
- ** *Once again
+ ***Once again
   I look upon the cross where You died
   I’m humbled by Your mercy
   And I’m broken inside

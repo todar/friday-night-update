@@ -9,7 +9,7 @@ He humbled Himself and carried the cross
 
 Love so amazing, love so amazing
 
- ** *Jesus Messiah
+ ***Jesus Messiah
   Name above all names
   Blessed Redeemer
   Emmanuel
@@ -26,7 +26,7 @@ And the veil was torn
 
 Love so amazing, love so amazing
 
- ** *Jesus Messiah
+ ***Jesus Messiah
   Name above all names
   Blessed Redeemer
   Emmanuel
@@ -40,7 +40,7 @@ All our hope is in You
 All the glory to You, God
 The light of the world
 
- ** *Jesus Messiah
+ ***Jesus Messiah
   Name above all names
   Blessed Redeemer
   Emmanuel
@@ -49,5 +49,5 @@ The light of the world
   Jesus Messiah
   Lord of all***
 
- ** *Jesus Messiah
+ ***Jesus Messiah
   Lord of all***

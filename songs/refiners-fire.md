@@ -8,7 +8,7 @@ Let me be as gold and precious silver
 Purify my heart
 Let me be as gold, pure gold
 
- ** *Refiner's fire
+ ***Refiner's fire
   My heart's one desire
   Is to be holy
   Set apart for You, Lord

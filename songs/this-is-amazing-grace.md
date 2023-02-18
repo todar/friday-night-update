@@ -17,12 +17,12 @@ And leaves us breathless
 The King of Glory
 The King above all kings
 
- ** * This is amazing grace
+ ***This is amazing grace
    This is unfailing love
    That You would take my place
    That You would bear my cross***
 
- ** * You laid down Your life
+ ***You laid down Your life
    That I would be set free
    Oh, Jesus, I sing for
    All that You've done for me***
@@ -41,12 +41,12 @@ Shines like the sun in
 The King of Glory
 The King above all kings
 
- ** * This is amazing grace
+ ***This is amazing grace
    This is unfailing love
    That You would take my place
    That You would bear my cross***
 
- ** * You laid down Your life
+ ***You laid down Your life
    That I would be set free
    Oh, Jesus, I sing for
    All that You've done for me***
@@ -56,15 +56,15 @@ Worthy is the King who conquered the grave
 Worthy is the Lamb who was slain
 Worthy is the King who conquered the grave
 
- ** * This is amazing grace
+ ***This is amazing grace
    This is unfailing love
    That You would take my place
    That You would bear my cross***
 
- ** * You laid down Your life
+ ***You laid down Your life
    That I would be set free
    Oh, Jesus, I sing for
    All that You've done for me***
 
- ** * Jesus, I sing for
+ ***Jesus, I sing for
    All that You've done for me***

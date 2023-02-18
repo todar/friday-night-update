@@ -3,7 +3,7 @@ title: Jesus Christ
 artist: Dave Cottrell
 copyright: © 2018 Dave Cottrell
 ---
- ** *Jesus Christ, Jesus Christ 
+ ***Jesus Christ, Jesus Christ 
   You're my Lord and my Savior
   You paid the price for my life
   I will praise You forever***
@@ -14,7 +14,7 @@ Praise and thanks forever
 Jesus Christ, Jesus Christ 
 I will praise You forever
 
- ** *Jesus Christ, Jesus Christ 
+ ***Jesus Christ, Jesus Christ 
   You're my Lord and my Savior
   You paid the price for my life
   I will praise You forever***

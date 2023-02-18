@@ -11,7 +11,7 @@ Let the heavens shake and split the sky
 Let the people clap their hands and cry
 It’s not for us, it’s all for You
 
- ** * Not to us, but to Your name be the glory
+ ***Not to us, but to Your name be the glory
    Not to us, but to Your name be the glory***
 
 Our hearts unfold before Your throne
@@ -22,7 +22,7 @@ Send Your holy fire on this offering
 Let our worship burn for all to see
 It’s not for us, it’s all for You
 
- ** * Not to us, but to Your name be the glory
+ ***Not to us, but to Your name be the glory
    Not to us, but to Your name be the glory***
 
 The earth is shaking, the mountains shouting
@@ -43,7 +43,7 @@ Let the heavens shake and split the sky
 Let the people clap their hands and cry
 It’s not for us, it’s all for You
 
- ** * Not to us, but to Your name be the glory
+ ***Not to us, but to Your name be the glory
    Not to us, but to Your name be the glory***
 
 Our hearts unfold before Your throne
@@ -54,7 +54,7 @@ Send Your holy fire on this offering
 Let our worship burn for all to see
 It’s not for us, it’s all for You
 
- ** * Not to us, but to Your name be the glory
+ ***Not to us, but to Your name be the glory
    Not to us, but to Your name be the glory
    Not to us, but to Your name be the glory
    Not to us, but to Your name be the glory***

@@ -13,11 +13,11 @@ Of His precious blood's atoning
 Then I repented of my sins
 And won the victory
 
- ** *O victory in Jesus, my Savior, forever
+ ***O victory in Jesus, my Savior, forever
   He sought me and bought me
   With His redeeming blood***
 
- ** *He loved me ere I knew Him
+ ***He loved me ere I knew Him
   And all my love is due Him
   He plunged me to victory
   Beneath the cleansing flood***
@@ -32,11 +32,11 @@ Come and heal my broken spirit"
 And somehow Jesus came and brought
 To me the victory
 
- ** *O victory in Jesus, my Savior, forever
+ ***O victory in Jesus, my Savior, forever
   He sought me and bought me
   With His redeeming blood***
 
- ** *He loved me ere I knew Him
+ ***He loved me ere I knew Him
   And all my love is due Him
   He plunged me to victory
   Beneath the cleansing flood***
@@ -51,11 +51,11 @@ And the old redemption story
 And some sweet day I'll sing up there
 The song of victory
 
- ** *O victory in Jesus, my Savior, forever
+ ***O victory in Jesus, my Savior, forever
   He sought me and bought me
   With His redeeming blood***
 
- ** *He loved me ere I knew Him
+ ***He loved me ere I knew Him
   And all my love is due Him
   He plunged me to victory
   Beneath the cleansing flood***

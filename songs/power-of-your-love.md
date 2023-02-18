@@ -12,7 +12,7 @@ The weaknesses I see in me
 Will be stripped away
 By the power of Your love
 
- ** * Hold me close
+ ***Hold me close
    Let Your love surround me
    Bring me near
    Draw me to Your side
@@ -30,7 +30,7 @@ Lord, renew my mind
 As Your will unfolds in my life
 In living every day by the power of Your love
 
- ** * Hold me close
+ ***Hold me close
    Let Your love surround me
    Bring me near
    Draw me to Your side
@@ -40,7 +40,7 @@ In living every day by the power of Your love
    Your Spirit leads me on
    In the power of Your love***
 
- ** * Hold me close
+ ***Hold me close
    Let Your love surround me
    Bring me near
    Draw me to Your side
@@ -49,6 +49,6 @@ In living every day by the power of Your love
    And I will soar with You
    Your Spirit leads me on***
 
- ** * In the power of Your love
+ ***In the power of Your love
    In the power of Your love
    In the power of Your love***

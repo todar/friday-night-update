@@ -10,7 +10,7 @@ Everyone needs forgiveness
 The kindness of a Savior
 The hope of nations
 
- ** * My Savior
+ ***My Savior
    He can move the mountains
    My God is mighty to save
    He is mighty to save
@@ -26,7 +26,7 @@ I give my life to follow
 Everything I believe in
 Now I surrender
 
- ** * My Savior
+ ***My Savior
    He can move the mountains
    My God is mighty to save
    He is mighty to save
@@ -43,7 +43,7 @@ Shine Your light and let the whole world see
 We're singing
 For the glory of the risen King
 
- ** * My Savior
+ ***My Savior
    He can move the mountains
    My God is mighty to save
    He is mighty to save

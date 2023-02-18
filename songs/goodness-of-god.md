@@ -12,7 +12,7 @@ Until I lay my head
 I will sing
  of the goodness of God
 
- ** *All my life You have been faithful
+ ***All my life You have been faithful
   All my life You have been so, so good
   With every breath that I am able
   I will sing of the goodness of God***
@@ -26,7 +26,7 @@ I've known You as a Friend
 And I have lived
  in the goodness of God
 
- ** *All my life You have been faithful
+ ***All my life You have been faithful
   All my life You have been so, so good
   With every breath that I am able
   I will sing of the goodness of God***
@@ -41,9 +41,9 @@ I give You everything
 Your goodness is running after
  It's running after me
 
- ** *All my life You have been faithful
+ ***All my life You have been faithful
   All my life You have been so, so good
   With every breath that I am able
   I will sing of the goodness of God***
 
- ** *I will sing of the goodness of God***
+ ***I will sing of the goodness of God***

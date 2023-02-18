@@ -3,7 +3,7 @@ title: Humble Thyself
 artist: Bob Hudson
 copyright: 1978 Universal Music
 ---
- **  (James 4:10)**
+ ** (James 4:10)**
 
 *\[men lead, ladies echo]*
 

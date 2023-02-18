@@ -13,7 +13,7 @@ True are your promises
 You never change
 You never fail, O God
 
- ** *So we raise up holy hands
+ ***So we raise up holy hands
   To praise the holy One
   Who was, and is, and is to come
   Yes we raise up holy hands
@@ -25,7 +25,7 @@ Wide is Your love and grace
 You never change
 You never fail, O God
 
- ** *So we raise up holy hands
+ ***So we raise up holy hands
   To praise the holy One
   Who was, and is, and is to come
   Yes we raise up holy hands
@@ -40,14 +40,14 @@ You were
 You are
 You will always be
 
- ** *So we raise up holy hands
+ ***So we raise up holy hands
   To praise the holy One
   Who was, and is, and is to come
   Yes we raise up holy hands
   To praise the holy One
   Who was, and is, and is to come***
 
- ** *Yes we raise up holy hands
+ ***Yes we raise up holy hands
   To praise the holy One
   Who was, and is, and is to come
   Who was, and is, and is to come***

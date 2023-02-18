@@ -18,7 +18,7 @@ for my ever wandering heart?
  Not because of what I've done
  But because of who You are***
 
- ** * I am a flower quickly fading
+ ***I am a flower quickly fading
    Here today and gone tomorrow
    A wave tossed in the ocean
    A vapor in the wind
@@ -42,7 +42,7 @@ and calm the storm in me?
  Not because of what I've done
  But because of who You are***
 
- ** * I am a flower quickly fading
+ ***I am a flower quickly fading
    Here today and gone tomorrow
    A wave tossed in the ocean
    A vapor in the wind

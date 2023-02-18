@@ -9,7 +9,7 @@ Thou changest not
 Thy compassions, they fail not
 As Thou hast been, Thou forever will be
 
- ** * Great is Thy faithfulness
+ ***Great is Thy faithfulness
    Great is Thy faithfulness
    Morning by morning, new mercies I see
    All I have needed Thy hand hath provided
@@ -23,17 +23,17 @@ And bright hope for tomorrow
 Blessings all mine
 With ten thousand beside
 
- ** * Great is Thy faithfulness
+ ***Great is Thy faithfulness
    Great is Thy faithfulness
    Morning by morning, new mercies I see
    All I have needed Thy hand hath provided
    Great is Thy faithfulness, Lord, unto me***
 
- ** * Great is Thy faithfulness
+ ***Great is Thy faithfulness
    Great is Thy faithfulness
    Morning by morning, new mercies I see
    All I have needed Thy hand hath provided***
 
- ** * Great is Thy faithfulness
+ ***Great is Thy faithfulness
    Great is Thy faithfulness***\
- ** * Great is Thy faithfulness, Lord, unto me***
+ ***Great is Thy faithfulness, Lord, unto me***

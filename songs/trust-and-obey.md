@@ -10,7 +10,7 @@ While we do His good will
  He abides with us still
 And with all who will trust and obey
 
- ** *Trust and obey
+ ***Trust and obey
   For there's no other way
   To be happy in Jesus
   But to trust and obey***
@@ -22,7 +22,7 @@ For the favor He shows
  and the joy He bestows
 Are for those who will trust and obey
 
- ** *Trust and obey
+ ***Trust and obey
   For there's no other way
   To be happy in Jesus
   But to trust and obey***
@@ -33,7 +33,7 @@ What He says we will do
 Where He sends we will go
 Never fear, only trust and obey
 
- ** *Trust and obey
+ ***Trust and obey
   For there's no other way
   To be happy in Jesus
   But to trust and obey***

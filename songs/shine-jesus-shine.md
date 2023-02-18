@@ -9,12 +9,12 @@ Jesus, light of the world shine upon us
 Set us free by the truth You now bring us
 Shine on me, Shine on me
 
- ** *Shine, Jesus, shine
+ ***Shine, Jesus, shine
   Fill this land with the Father’s glory
   Blaze, Spirit, blaze
   Set our hearts on fire***
 
- ** *Flow, river, flow
+ ***Flow, river, flow
   Flood the nations with grace and mercy
   Send forth Your word, Lord
   And let there be light***
@@ -25,12 +25,12 @@ By the blood I may enter Your brightness
 Search me, try me, consume all my darkness
 Shine on me, Shine on me
 
- ** *Shine, Jesus, shine
+ ***Shine, Jesus, shine
   Fill this land with the Father’s glory
   Blaze, Spirit, blaze
   Set our hearts on fire***
 
- ** *Flow, river, flow
+ ***Flow, river, flow
   Flood the nations with grace and mercy
   Send forth Your word, Lord
   And let there be light***
@@ -41,12 +41,12 @@ Ever changing from glory to glory
 Mirrored here may our lives tell Your story
 Shine on me, Shine on me
 
- ** *Shine, Jesus, shine
+ ***Shine, Jesus, shine
   Fill this land with the Father’s glory
   Blaze, Spirit, blaze
   Set our hearts on fire***
 
- ** *Flow, river, flow
+ ***Flow, river, flow
   Flood the nations with grace and mercy
   Send forth Your word, Lord
   And let there be light***

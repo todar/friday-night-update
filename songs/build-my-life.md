@@ -20,7 +20,7 @@ Worthy of every breath
 We live for You
 We live for You
 
- ** *Holy, there is no one like You
+ ***Holy, there is no one like You
   There is none beside You
   Open up my eyes in wonder
   Show me who You are
@@ -46,7 +46,7 @@ Worthy of every breath
 We live for You
 We live for You
 
- ** *Holy, there is no one like You
+ ***Holy, there is no one like You
   There is none beside You
   Open up my eyes in wonder
   Show me who You are
@@ -54,7 +54,7 @@ We live for You
   And lead me in Your love
    to those around me***
 
- ** *Holy, there is no one like You
+ ***Holy, there is no one like You
   There is none beside You
   Open up my eyes in wonder
   Show me who You are
@@ -76,7 +76,7 @@ I will put my trust
  in You alone
 And I will not be shaken
 
- ** *Holy, there is no one like You
+ ***Holy, there is no one like You
   There is none beside You
   Open up my eyes in wonder
   Show me who You are
@@ -84,7 +84,7 @@ And I will not be shaken
   And lead me in Your love
    to those around me***
 
- ** *Holy, there is no one like You
+ ***Holy, there is no one like You
   There is none beside You
   Open up my eyes in wonder
   Show me who You are

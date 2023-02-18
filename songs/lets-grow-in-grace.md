@@ -14,5 +14,5 @@ Glory to God, forevermore!
 Singin': "Glory to God! Glory to God!"
 Singin': "Glory and honor to Him!"
 
- *   \[last time]*
+ *  \[last time]*
 Singin': "Glory and honor to the King of kings!"

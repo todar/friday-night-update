@@ -16,7 +16,7 @@ Unveiled the truth, this mystery
 You are my God, You are my Savior
 You are the Rock on which I stand
 
- ** *Ever faithful God, I cling to You
+ ***Ever faithful God, I cling to You
   In every way You've shown that You are good
   There's no other love compares with You
   Forever strong, forever true
@@ -30,7 +30,7 @@ Are found in You, the Prince of peace
 You are my God, You are my Savior
 You are the Rock on which I stand
 
- ** *Ever faithful God, I cling to You
+ ***Ever faithful God, I cling to You
   In every way You've shown that You are good
   There's no other love compares with You
   Forever strong, forever true
@@ -42,7 +42,7 @@ You are the Rock on which I stand
 You are my God, You are my Savior
 Eternal One, the Great I AM
 
- ** *Ever faithful God, I cling to You
+ ***Ever faithful God, I cling to You
   In every way You've shown that You are good
   There's no other love compares with You
   Forever strong, forever true

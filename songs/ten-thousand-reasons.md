@@ -3,7 +3,7 @@ title: Ten Thousand Reasons
 artist: Jonas Myrin, Matt Redman
 copyright: 2011 Thankyou Music
 ---
- ** *Bless the Lord, O my soul
+ ***Bless the Lord, O my soul
   O my soul
   Worship His Holy name
   Sing like never before
@@ -18,7 +18,7 @@ And whatever lies before me
 Let me be singing
 When the evening comes
 
- ** *Bless the Lord, O my soul
+ ***Bless the Lord, O my soul
   O my soul
   Worship His Holy name
   Sing like never before
@@ -34,7 +34,7 @@ I will keep on singing
 Ten thousand reasons
 For my heart to find
 
- ** *Bless the Lord, O my soul
+ ***Bless the Lord, O my soul
   O my soul
   Worship His Holy name
   Sing like never before
@@ -50,12 +50,12 @@ Your praise unending
 Ten thousand years
 And then forevermore
 
- ** *Bless the Lord, O my soul
+ ***Bless the Lord, O my soul
   O my soul
   Worship His Holy name
   Sing like never before
   O my soul
   I'll worship Your Holy name***
 
- ** *I'll worship Your Holy name
+ ***I'll worship Your Holy name
   Yes, I'll worship Your Holy name***

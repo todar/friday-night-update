@@ -16,7 +16,7 @@ And here am I on earth
 So I'll let my words be few
 Jesus, I am so in love with You
 
- ** *And I'll stand in awe of You
+ ***And I'll stand in awe of You
   Yes I'll stand in awe of You
   And I'll let my words be few
   Jesus, I am so in love with You***
@@ -26,7 +26,7 @@ I want to bring to You
 So I'll let my words be few
 Jesus, I am so in love with You
 
- ** *And I'll stand in awe of You
+ ***And I'll stand in awe of You
   Yes I'll stand in awe of You
   And I'll let my words be few
   Jesus, I am so in love with You***
@@ -36,15 +36,15 @@ And here am I on earth
 So I'll let my words be few
 Jesus, I am so in love with You
 
- ** *And I'll stand in awe of You
+ ***And I'll stand in awe of You
   Yes I'll stand in awe of You
   And I'll let my words be few
   Jesus, I am so in love with You***
 
- ** *And I'll stand in awe of You
+ ***And I'll stand in awe of You
   Yes I'll stand in awe of You
   And I'll let my words be few***
 
- ** * Jesus, I am so in love with You
+ ***Jesus, I am so in love with You
    Jesus, I am so in love with You
    Jesus, I am so in love with You***

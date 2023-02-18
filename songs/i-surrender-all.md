@@ -8,7 +8,7 @@ All to You I freely give
 I will ever love and trust You
 In Your presence daily live
 
- ** *I surrender all
+ ***I surrender all
   I surrender all
   All to You, my blessed Savior
   I surrender all***

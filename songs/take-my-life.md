@@ -21,10 +21,10 @@ Not a mite would I withhold
 Take my intellect and use
 Every power as You choose
 
- ** * Here am I***   (echo)
- ** * All of me***   (echo)
- ** * Take my life***   (echo)
- ** * It's all for Thee***   (echo)
+ ***Here am I***  (echo)
+ ***All of me***  (echo)
+ ***Take my life***  (echo)
+ ***It's all for Thee***  (echo)
 
 Take my will and make it Thine
 It shall be no longer mine
@@ -35,15 +35,15 @@ At Your feet its treasure store
 Take myself and I will be
 Ever, only, all for Thee
 
- ** * Here am I***   (echo)
- ** * All of me***   (echo)
- ** * Take my life***   (echo)
- ** * It's all for Thee***   (echo)
+ ***Here am I***  (echo)
+ ***All of me***  (echo)
+ ***Take my life***  (echo)
+ ***It's all for Thee***  (echo)
 
- ** * Here am I***   (echo)
- ** * All of me***   (echo)
- ** * Take my life***   (echo)
- ** * It's all for Thee***   (echo)
+ ***Here am I***  (echo)
+ ***All of me***  (echo)
+ ***Take my life***  (echo)
+ ***It's all for Thee***  (echo)
 
 Take my life and let it be
 Consecrated, Lord, to Thee

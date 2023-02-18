@@ -8,7 +8,7 @@ So loved He the world that He gave us His Son
 Who yielded His life an atonement for sin
 And opened the lifegate that all may go in
 
- ** *Praise the Lord, praise the Lord!
+ ***Praise the Lord, praise the Lord!
   Let the earth hear His voice
   Praise the Lord, praise the Lord!
   Let the people rejoice
@@ -22,7 +22,7 @@ To every believer, the promise of God
 The vilest offender who truly believes
 That moment from Jesus a pardon receives
 
- ** *Praise the Lord, praise the Lord!
+ ***Praise the Lord, praise the Lord!
   Let the earth hear His voice
   Praise the Lord, praise the Lord!
   Let the people rejoice
@@ -37,7 +37,7 @@ And great our rejoicing through Jesus the Son
 But purer and higher and greater will be
 Our wonder, our transport, when Jesus we see
 
- ** *Praise the Lord, praise the Lord!
+ ***Praise the Lord, praise the Lord!
   Let the earth hear His voice
   Praise the Lord, praise the Lord!
   Let the people rejoice

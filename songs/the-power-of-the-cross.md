@@ -9,7 +9,7 @@ Tried by sinful men
 Torn and beaten, then
 Nailed to a cross of wood
 
- ** *This, the power of the cross:
+ ***This, the power of the cross:
   Christ became sin for us
   Took the blame, bore the wrath
   We stand forgiven at the cross***
@@ -19,7 +19,7 @@ Bearing the awesome weight of sin
 Every bitter thought, every evil deed
 Crowning Your bloodstained brow
 
- ** *This, the power of the cross:
+ ***This, the power of the cross:
   Christ became sin for us
   Took the blame, bore the wrath
   We stand forgiven at the cross***
@@ -31,7 +31,7 @@ Curtain torn in two
 Dead are raised to life
 "Finished!" the victory cry
 
- ** *This, the power of the cross:
+ ***This, the power of the cross:
   Christ became sin for us
   Took the blame, bore the wrath
   We stand forgiven at the cross***
@@ -42,7 +42,7 @@ Death is crushed to death
 Life is mine to live
 Won through Your selfless love
 
- ** *This, the power of the cross:
+ ***This, the power of the cross:
   Son of God, slain for us
   What a love! What a cost!
   We stand forgiven at the cross***

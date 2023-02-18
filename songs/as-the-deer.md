@@ -10,7 +10,7 @@ So my soul longeth after Thee
 You alone are my heart’s desire
 And I long to worship Thee
 
- ** *You alone are my Strength, my Shield
+ ***You alone are my Strength, my Shield
   To You alone may my spirit yield
   You alone are my heart’s desire
   And I long to worship Thee***
@@ -20,7 +20,7 @@ Even though You are a King
 I love You more than any other
 So much more than anything
 
- ** *You alone are my Strength, my Shield
+ ***You alone are my Strength, my Shield
   To You alone may my spirit yield
   You alone are my heart’s desire
   And I long to worship Thee***
@@ -30,9 +30,9 @@ Only You can satisfy
 You alone are the real joy-giver
 And the apple of my eye
 
- ** *You alone are my Strength, my Shield
+ ***You alone are my Strength, my Shield
   To You alone may my spirit yield
   You alone are my heart’s desire
   And I long to worship Thee***
 
- ** *And I long to worship Thee***
+ ***And I long to worship Thee***

@@ -3,7 +3,7 @@ title: Enough
 artist: Chris Tomlin, Louie Giglio
 copyright: 2002 worshiptogether.com songs
 ---
- ** *All of You
+ ***All of You
   Is more than enough for all of me
   For every thirst and every need
   You satisfy me with Your love
@@ -17,7 +17,7 @@ You're my reward
 Worth living for
 Still more awesome than I know
 
- ** *All of You
+ ***All of You
   Is more than enough for all of me
   For every thirst and every need
   You satisfy me with Your love
@@ -31,7 +31,7 @@ You're my coming King
 You are everything
 Still more awesome than I know
 
- ** *All of You
+ ***All of You
   Is more than enough for all of me
   For every thirst and every need
   You satisfy me with Your love
@@ -45,7 +45,7 @@ More than all I know
 More than all I can say
 You are more than enough
 
- ** *All of You
+ ***All of You
   Is more than enough for all of me
   For every thirst and every need
   You satisfy me with Your love

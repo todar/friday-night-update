@@ -13,7 +13,7 @@ In fields where they
 On a cold winter's night
  that was so deep
 
- ** * Noel, Noel, Noel, Noel
+ ***Noel, Noel, Noel, Noel
    Born is the King of Israel!***
 
 They looked up and saw a star
@@ -24,5 +24,5 @@ And to the earth
 And so it continued
  both day and night
 
- ** * Noel, Noel, Noel, Noel
+ ***Noel, Noel, Noel, Noel
    Born is the King of Israel!***

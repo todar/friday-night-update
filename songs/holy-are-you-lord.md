@@ -16,7 +16,7 @@ You are
   Your Name, Your praise
   Shall be my song
 
- ** *You are holy, holy
+ ***You are holy, holy
   Holy are you Lord
   You are holy, holy
   Holy are you Lord***
@@ -34,12 +34,12 @@ You are
   Your Name, Your praise
   Shall be my song
 
- ** *You are holy, holy
+ ***You are holy, holy
   Holy are you Lord
   You are holy, holy
   Holy are you Lord***
 
- ** *You are holy, holy
+ ***You are holy, holy
   Holy are you Lord
   You are holy, holy
   Holy are you Lord***
@@ -49,12 +49,12 @@ One as holy as You are?
 Hallelujah for the cross
 Live inside of me and sanctify my heart
 
- ** *You are holy, holy
+ ***You are holy, holy
   Holy are you Lord
   You are holy, holy
   Holy are you Lord***
 
- ** *You are holy, holy
+ ***You are holy, holy
   Holy are you Lord
   You are holy, holy
   Holy are you Lord***

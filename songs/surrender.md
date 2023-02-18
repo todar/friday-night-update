@@ -13,7 +13,7 @@ I’m laying down my rights
 I’m giving up my pride
 For the promise of new life
 
- ** *And I surrender all to You
+ ***And I surrender all to You
   All to You
   And I surrender all to You
   All to You***
@@ -28,12 +28,12 @@ The glory of Your Name
 To know the lasting joy
 Even sharing in Your pain
 
- ** *And I surrender all to You
+ ***And I surrender all to You
   All to You
   And I surrender all to You
   All to You***
 
- ** *And I surrender all to You
+ ***And I surrender all to You
   All to You
   And I surrender all to You
   All to You***

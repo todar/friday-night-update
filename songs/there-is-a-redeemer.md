@@ -13,7 +13,7 @@ Name above all names
 Precious Lamb of God, Messiah
 Oh, for sinners slain
 
- ** *Thank You, oh my Father
+ ***Thank You, oh my Father
   For giving us Your Son
   And leaving Your Spirit till
   The work on earth is done***
@@ -23,7 +23,7 @@ I will see Your face
 There I'll serve my King forever
 In that holy place
 
- ** *Thank You, oh my Father
+ ***Thank You, oh my Father
   For giving us Your Son
   And leaving Your Spirit till
   The work on earth is done***

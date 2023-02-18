@@ -11,7 +11,7 @@ Is all that has carried me through
 Jesus, I thank You
 
 \    \[men lead, women echo at ']
- ** *And I thank You, thank You, ' Lord
+ ***And I thank You, thank You, ' Lord
   And I thank You, thank You, ' Lord***
 
 Thank You for loving and setting me free\

@@ -15,7 +15,7 @@ It purifies my heart
 And heals me from within
 Oooo, I receive Your grace
 
- ** * Pour over me, pour over me
+ ***Pour over me, pour over me
    Let Your rain flood this thirsty soul
    Pour over me Your waves of love
    Pour over me***
@@ -26,12 +26,12 @@ I'm opening up my heart
 Come make this joy complete
 Oooo, I receive Your peace
 
- ** * Pour over me, pour over me
+ ***Pour over me, pour over me
    Let Your rain flood this thirsty soul
    Pour over me Your waves of love
    Pour over me***
 
- ** * Pour over me, pour over me
+ ***Pour over me, pour over me
    Let Your rain flood this thirsty soul
    Pour over me Your waves of love
    Pour over me***

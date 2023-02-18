@@ -8,7 +8,7 @@ I'll fly away
 To my home on God's celestial shore
 I'll fly away
 
- ** *I'll fly away, O glory
+ ***I'll fly away, O glory
   I'll fly away
   When I die, Hallelujah, by and by
   I'll fly away***
@@ -18,7 +18,7 @@ I'll fly away
 Like a bird from prison bars has flown
 I'll fly away
 
- ** *I'll fly away, O glory
+ ***I'll fly away, O glory
   I'll fly away
   When I die, Hallelujah, by and by
   I'll fly away***
@@ -28,7 +28,7 @@ I'll fly away
 To a land where joy shall never end
 I'll fly away
 
- ** *I'll fly away, O glory
+ ***I'll fly away, O glory
   I'll fly away
   When I die, Hallelujah, by and by
   I'll fly away***

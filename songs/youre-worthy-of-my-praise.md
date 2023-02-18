@@ -14,7 +14,7 @@ All of my days
 I will follow
 Follow all of Your ways
 
- ** *I will give You all my worship
+ ***I will give You all my worship
   I will give You all my praise
   You alone I long to worship
   You alone
@@ -30,7 +30,7 @@ My eyes to Your throne
 I will trust You
 I will trust You alone
 
- ** *I will give You all my worship
+ ***I will give You all my worship
   I will give You all my praise
   You alone I long to worship
   You alone
@@ -46,7 +46,7 @@ All of my days
 I will follow
 Follow all of Your ways
 
- ** *I will give You all my worship
+ ***I will give You all my worship
   I will give You all my praise
   You alone I long to worship
   You alone
@@ -62,13 +62,13 @@ My eyes to Your throne
 I will trust You
 I will trust You alone
 
- ** *I will give You all my worship
+ ***I will give You all my worship
   I will give You all my praise
   You alone I long to worship
   You alone
    are worthy of my praise***
 
- ** *I will give You all my worship
+ ***I will give You all my worship
   I will give You all my praise
   You alone I long to worship
   You alone

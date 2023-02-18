@@ -9,7 +9,7 @@ In the secret, in the quiet hour I wait
 Only for You
 'Cause I want to know You more
 
- ** *I want to know You
+ ***I want to know You
   I want to hear Your voice
   I want to know You more
   I want to touch You
@@ -23,7 +23,7 @@ Pushing every hindrance aside
 Out of my way
 'Cause I want to know You more
 
- ** *I want to know You
+ ***I want to know You
   I want to hear Your voice
   I want to know You more
   I want to touch You
@@ -36,7 +36,7 @@ In the secret, in the quiet hour I wait
 Only for You
 'Cause I want to know You more
 
- ** *I want to know You
+ ***I want to know You
   I want to hear Your voice
   I want to know You more
   I want to touch You
