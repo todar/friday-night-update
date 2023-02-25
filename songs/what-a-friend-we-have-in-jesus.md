@@ -25,7 +25,7 @@ Are we weak and heavy-laden
 Cumbered with a load of care?
 Precious Savior, still our refuge
 Take it to the Lord in prayer
-Does the word despise, forsake you?
+Does the world despise, forsake you?
 Take it to the Lord in prayer
 In His arms He'll take and shield you
 You will find a solace there
