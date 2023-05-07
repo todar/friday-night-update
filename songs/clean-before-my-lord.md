@@ -11,7 +11,7 @@ copyright: 1973 Myrrh Records
   He washed them all from me
 
 The life that I left is past
-I live new life that will last eternally
+I live new life that will last (eternally)
 In Christ, new things have come
 I rejoice in Him
 I'm alive in Him
@@ -22,7 +22,7 @@ I'm alive in Him
   He washed them all from me
 
 The life that I left is past
-I live new life that will last eternally
+I live new life that will last (eternally)
 In Christ, new things have come
 I rejoice in Him
 I'm alive in Him
