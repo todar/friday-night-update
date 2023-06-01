@@ -1,7 +1,7 @@
 ---
 title: Jesus Loves Me
 artist: Anna B. Warner, Dave Cottrell
-copyright: " "
+copyright: " (c) Copyright 2021 Dave Cottrell"
 ---
 Jesus loves me, this I know
 For the Bible tells me so
