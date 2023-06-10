@@ -23,11 +23,14 @@ const SongPage = ({ songs }) => {
   const [{ value }] = useSearch();
 
   const filteredList = songs.filter(song => {
+    const title = song.data.title.replace(/[^a-zA-Z0-9\s]/g, '');
+    const artist = song.data.artist.replace(/[^a-zA-Z0-9\s]/g, '');
+    const tags = song.data?.tags?.map(tag => tag.replace(/[^a-zA-Z0-9\s]/g, ''));
     if (
-      song.data.title.toLowerCase().includes(value.toLowerCase()) ||
-      song.data.artist.toLowerCase().includes(value.toLowerCase())|| 
-      song.data?.tags?.map(x => x.toLowerCase()).some(x => x.includes(value.toLowerCase())) || 
-      value === "" 
+      title.toLowerCase().includes(value.toLowerCase()) ||
+      artist.toLowerCase().includes(value.toLowerCase()) ||
+      tags?.map(x => x.toLowerCase()).some(x => x.includes(value.toLowerCase())) ||
+      value === ""
     ) {
       return song;
     }
