@@ -10,7 +10,7 @@ copyright: 1973 Myrrh Records
   When I placed all my burdens on Him
   He washed them all from me
 
-The life that I left is past
+The life that I left has passed
 I live new life that will last (eternally)
 In Christ, new things have come
 I rejoice in Him
@@ -21,7 +21,7 @@ I'm alive in Him
   When I placed all my burdens on Him
   He washed them all from me
 
-The life that I left is past
+The life that I left has passed
 I live new life that will last (eternally)
 In Christ, new things have come
 I rejoice in Him
